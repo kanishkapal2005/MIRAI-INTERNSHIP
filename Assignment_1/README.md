@@ -80,7 +80,7 @@ Assignment_1/
 
 ## 🎓 Student and Internship Details
 
-*   **Student Name**: [Your Name / Mirai Intern]
+*   **Student Name**: Kanishka Pal
 *   **Internship Program**: Mirai Internship
 *   **Assignment Title**: Streamlit Basics & Calculator Enhancements
 *   **Submission Date**: July 2026
