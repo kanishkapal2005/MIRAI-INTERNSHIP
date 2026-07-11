@@ -1,4 +1,4 @@
-# The MULTIVERSE OF CHATBOTS
+# DEAR FRIEND CHATBOT
 
 An interactive AI chatbot application built using **Streamlit** and **Google Gemini 2.5 Flash**. This project was developed as **Assignment 2** for the **Mirai Virtual Summer Internship 2026 – AI Builder Track**.
 
@@ -27,16 +27,16 @@ The application allows users to interact with multiple AI personalities, each re
 
 # 🚀 About the Project
 
-**The MULTIVERSE OF CHATBOTS** is a personality-driven AI chatbot built using **Streamlit** and the **Google Gemini API**.
+**DEAR FRIEND CHATBOT** is a personality-driven AI chatbot built using **Streamlit** and the **Google Gemini API**.
 
 Instead of talking to a generic chatbot, users can choose from multiple unique personalities and receive responses that remain completely in character throughout the conversation.
 
 Available personalities include:
 
-* 💻 An Expert Hacker
-* 🏏 An Angry Ravi Shastri
-* ⚽ A Crazy Ronaldo Fan
-* 🇺🇸 Donald Trump
+* 💻 Rohit Shetty
+* 🏏 Rohit Sharma
+* ⚽ A cute baby
+* 🇺🇸 A brilliant Software Engineer
 
 The selected personality is combined with the user's message and sent to **Gemini 2.5 Flash**, which generates a response while maintaining the chosen character.
 
@@ -64,10 +64,10 @@ Users can select different virtual personalities before starting a conversation.
 
 Current personalities include:
 
-* Expert Hacker
-* Angry Ravi Shastri
-* Crazy Ronaldo Fan
-* Donald Trump
+* Rohit Shetty
+* Rohit Sharma
+* A cute baby
+* A brilliant Software Engineer
 
 ---
 
@@ -107,7 +107,7 @@ No API keys are hardcoded into the application.
 
 While waiting for the AI response, Streamlit displays:
 
-> Connecting to the multiverse!......
+> Connecting to your friend!......
 
 This provides a better user experience.
 
@@ -159,7 +159,7 @@ Display AI Reply
 ```bash
 git clone https://github.com/your-username/multiverse-of-chatbots.git
 
-cd multiverse-of-chatbots
+cd dear-friend-chatbot
 ```
 
 ---
@@ -283,4 +283,4 @@ This assignment helped develop practical skills in:
 
 Developed for the **Mirai Virtual Summer Internship 2026 – AI Builder Track**.
 
-© 2026 Aman Gupta. All rights reserved.
+© 2026 Kanishka Pal. All rights reserved.
